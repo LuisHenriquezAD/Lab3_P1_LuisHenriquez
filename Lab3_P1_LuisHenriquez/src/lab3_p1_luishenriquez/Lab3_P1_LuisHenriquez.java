@@ -82,6 +82,59 @@ public class Lab3_P1_LuisHenriquez {
                                }//fin 2 for
                                System.out.println(" ");
                            }//fin 1 For
+                           
+                                    for (int x = 1; x <=1; x++){//3
+                                        for (int a = 1; a <= num/3+2; a++){//for 4
+                                            System.out.print("*");
+                                        }//for 4
+                                            for (int a = 1; a <= num / 2 + 2; a++){//5
+                                                System.out.print("#");
+
+                                            }//for 5
+                                                    for (int a = 1; a <= num / 3 + 2; a++){//6
+                                                         System.out.print("*");
+
+                                                    }//for 6
+                                      System.out.println(" ");
+                                    }//for 3
+                                    
+                                     for (int x = 1; x <=1; x++){//7
+                                        for (int a = 1; a <= 1; a++){//for 8
+                                            System.out.print("*");
+                                        }//for 8
+                                            for (int a = 1; a <= num / 2; a++){//9
+                                                System.out.print("#");
+                                            }//for 9
+                                                    for (int a = 1; a <= num / 2 + 2; a++){//10
+                                                         System.out.print(" ");
+                                                    }//for 10
+                                                         for (int a = 1; a <= num / 2; a++){//11
+                                                         System.out.print("#");
+                                                    }//for 11
+                                                              for (int a = 1; a <= 1; a++){//12
+                                                         System.out.print("*");
+                                                    }//for 12
+                                      System.out.println(" ");
+                                    }//for 7
+                                    
+                                            for (int x = 1; x <=1; x++){//13
+                                        for (int a = 1; a <= 1; a++){//for 14
+                                            System.out.print("*");
+                                        }//for 14
+                                            for (int a = 1; a <= num / 2; a++){//15
+                                                System.out.print(" ");
+                                            }//for 15
+                                                    for (int a = 1; a <= num / 2 + 2; a++){//16
+                                                         System.out.print("#");
+                                                    }//for 16
+                                                         for (int a = 1; a <= num / 2; a++){//17
+                                                         System.out.print(" ");
+                                                    }//for 17
+                                                              for (int a = 1; a <= 1; a++){//18
+                                                         System.out.print("*");
+                                                    }//for 18
+                                      System.out.println(" ");
+                                    }//for 13
                 break;
             
                 
